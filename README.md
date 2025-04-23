@@ -5,7 +5,7 @@ A template for any payment project. This template include HTML, CSS, JS and can 
 # Websit
 https://xuchensun.github.io/PaymentPro/
 
-WebPage example
+Images of pages are followed.
 
 ![payment](https://github.com/user-attachments/assets/baab280f-f9fb-4fd0-a685-1e2cf32612bd)
 
