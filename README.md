@@ -1,2 +1,2 @@
 # PaymentPro
-A template for payment project
+A template for a payment project
